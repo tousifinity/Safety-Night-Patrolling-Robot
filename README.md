@@ -50,14 +50,5 @@ The **Safety Night Patrolling Robot** is an IoT-based surveillance solution desi
 - **Enhanced Safety**: Mitigates risks to human security personnel.
 
 
-## Future Improvements
-
-1. **Enhanced AI**:
-   - Implement advanced deep learning models for better accuracy.
-2. **Additional Sensors**:
-   - Integrate LiDAR and infrared sensors for improved obstacle detection.
-3. **Improved Navigation**:
-   - Develop robust algorithms for dynamic and complex environments.
-
 
 **Working Video link:** https://drive.google.com/drive/folders/1804CerHP8__lEwbodb3ZN1wvfvQ0QF-x
